@@ -1,1 +1,1 @@
-export type TTest = {}
+export type TTest = {};
